@@ -1,25 +1,32 @@
 {
     "name" : "Julia Wehmeyer",
-    "title" : "Art Direction Werbung und Grafikdesign",
-    "city" : [ "Frankfurt",
-      "Offenbach",
-      "Mainz",
-      "Wiesbaden",
-      "Darmstadt"
-    ],
-    "email" : "wehmeyer.julia@web.de",
-    "keywords" : [ "Design",
+    "title" : "Art Direction & Grafikdesign",
+    "city" : ["Frankfurt",
+     "Bad Homburg"],
+    "email" : "mail@juliawehmeyer.de",
+    "keywords" : [ "Design", 
         "Grafikdesign",
         "Kommunikationsdesign",
+                  "Branddesign",
+                  "Corporate Design",
+                  "Logo Design"
+                  "Marken Design"
         "Art Direction",
         "Art Director",
         "Designer",
-        "Werbung",
-        "Gestaltung",
-        "Webdesign"
-    ],
+        "Werbung", 
+        "Webdesign",
+                  "Social Media",
+                  "Dialog-Marketing",
+                  "Dialog-Mailing",
+           "Newsletter",
+                  "print",
+                  "Marketing"],
+  
     "phone" : "0177 9611355",
+"website": "https://www.juliawehmeyer.de",
     "profiles" : {
       "xing" : "https://www.xing.com/profile/Julia_Wehmeyer"
+ "linkedin" : "linkedin.com/in/julia-wehmeyer-a527271b5"
     }
 }
